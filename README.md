@@ -24,10 +24,5 @@ This project was developed to strengthen my understanding of core web fundamenta
 
 Building this project helped me understand how layout decisions affect visual balance, and how version control is essential for structured development.
 
-## 🌐 Live Preview
-
-(If you activate GitHub Pages, put the link here)
-
----
-
 Made with focus on fundamentals and clean structure.
+
